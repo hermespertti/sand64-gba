@@ -1,0 +1,10 @@
+*.gba
+!sand64gba.gba
+*.elf
+*.map
+build_*.o
+shots_gba/root*.png
+shots_gba/win*.png
+shots_gba/game*.png
+*.mp4
+__pycache__/
